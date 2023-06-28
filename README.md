@@ -6,3 +6,11 @@
 <h2 align="center" id="ParentLink">
 ZTECO Attendance + WhatsApp Notifications: Simplify attendance tracking and boost parent-school communication with automated WhatsApp alerts.✨</h2>
 </p>
+<h2 id="steps-to-get-started-">steps to get started:</h2>
+<p>1- All users should their names signed like this "091009988777", while the first two numbers are the time of attendance in format 24, and the remaining numbers is the phone number without country code</p>
+<p>2- Change the country code from the script (change +2 to the code you want)</p>  
+<p><img src="https://github.com/asmpro7/ParentLink/assets/114514662/65a1a765-c658-406a-a683-648327b5090a" alt="image"></p>
+<p>3- Write the message you want to be sent in message file in any language you want</p>
+<p>4- Run the program and Enjoy✨😎</p>
+<h2 id="howWork">How ParentLink work:</h2>
+<p> Program categorizes users depending on their time should come and Every time the time is half (30 mins) the program gets all attendances who sign and compare them with the users who should be in that hour and gets the users who don't come and send them a specific message you write in message file and clear all signs for next time.</p>
