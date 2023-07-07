@@ -1,6 +1,3 @@
-# Created by Ahmed ElSaeed
-# 28/06/2023
-
 from zk import ZK, const
 import time 
 import datetime
@@ -45,8 +42,9 @@ try:
         "00":[]
     }
     for user in users:
-        AllUsers[user.uid]='{}'.format(user.name)
-
+        namy=user.name
+        namy=namy.split("\\")[-1]
+        AllUsers[user.uid]='{}'.format(namy)
 
     for key,value in AllUsers.items():
         timeStd[value[:2]].append(key)
