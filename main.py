@@ -1,3 +1,7 @@
+# ParentLink v1.1.0
+# Created by Ahmed ElSaeed
+# Release on 7/7/2023
+
 from zk import ZK, const
 import time 
 import datetime
