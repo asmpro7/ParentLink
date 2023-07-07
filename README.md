@@ -14,3 +14,11 @@ ZTECO Attendance + WhatsApp Notifications: Simplify attendance tracking and boos
 <p>4- Run the program and Enjoy✨😎</p>
 <h2 id="howWork">How ParentLink work:</h2>
 <p> Program categorizes users depending on their time should come and Every time the time is half (30 mins) the program gets all attendances who sign and compare them with the users who should be in that hour and gets the users who don't come and send them a specific message you write in message file and clear all signs for next time.</p>
+
+## What's new in v1.1.0
+1- Add ability to add name of student in name section but you should split between name and old name "091009988777" by '\' (back slash)   
+
+2- add code to run whatsapp web in "wa.py"   
+
+3- make execulable files in release 
+![image](https://github.com/asmpro7/ParentLink/assets/114514662/9bcc489a-9b3a-4dbd-ab69-33e551dedcde)
